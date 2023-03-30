@@ -3,7 +3,7 @@ This is a lab space i made for a WordPress project demanded by the current offic
 
 <p align="center">
   <a href="https://roots.io/bedrock/">
-    <img alt="Bedrock" src="https://cdn.roots.io/app/uploads/logo-bedrock.svg" height="100">
+    <img alt="Bedrock" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/2016-GHT-Logos_All-Black-Type.png" height="100">
   </a>
 </p>
 
